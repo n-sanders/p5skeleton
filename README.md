@@ -1,6 +1,6 @@
-# maze
+# p5 Skeleton
 
-This is the start of a p5.js implementation of my processing maze ai.
+This is a base web project implementing p5.js.
 
 # Running locally
 
